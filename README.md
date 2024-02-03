@@ -1,7 +1,7 @@
 Title: Music Player Application
 
 Description:
-This Java project is a simple music player application developed by [Your Name] for learning and practice purposes. The application allows users to create playlists, add songs to them, and control playback options such as playing the next or previous song, replaying the current song, and deleting songs from the playlist.
+This Java project is a simple music player application developed by Rushikesh for learning and practice purposes. The application allows users to create playlists, add songs to them, and control playback options such as playing the next or previous song, replaying the current song, and deleting songs from the playlist.
 
 Key Features:
 - Create and manage playlists.
